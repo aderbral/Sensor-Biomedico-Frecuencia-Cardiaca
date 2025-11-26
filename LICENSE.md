@@ -1,45 +1,35 @@
-MIT License
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
 
 Copyright (c) 2025 Adrián Bruno
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+    http://www.apache.org/licenses/LICENSE-2.0
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
-
-Licencia MIT
+Licencia Apache
+Versión 2.0, Enero 2004
+http://www.apache.org/licenses/
 
 Copyright (c) 2025 Adrián Bruno
 
-Se otorga permiso, de forma gratuita, a cualquier persona que obtenga una copia
-de este software y de los archivos de documentación asociados (el "Software"),
-para tratar con el Software sin restricciones, incluyendo sin limitación los
-derechos para usar, copiar, modificar, fusionar, publicar, distribuir,
-sublicenciar y/o vender copias del Software, y permitir a las personas a
-quienes se les proporcione el Software a hacer lo mismo, sujeto a las
-siguientes condiciones:
+Licenciado bajo la Licencia Apache, Versión 2.0 (la "Licencia");
+no puede utilizar este archivo excepto en cumplimiento con la Licencia.
+Puede obtener una copia de la Licencia en:
 
-El aviso de derechos de autor anterior y este aviso de permiso deberán ser
-incluidos en todas las copias o partes sustanciales del Software.
+    http://www.apache.org/licenses/LICENSE-2.0
 
-EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
-IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD,
-IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS
-AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES POR NINGÚN RECLAMO,
-DAÑO O OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE
-OTRO TIPO, QUE SURJA DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O CON EL USO
-U OTRO TIPO DE ACCIONES EN EL SOFTWARE.
+A menos que la ley aplicable lo requiera o se haya acordado por escrito,
+el software distribuido bajo la Licencia se distribuye "TAL CUAL",
+SIN GARANTÍAS NI CONDICIONES DE NINGÚN TIPO, ya sean expresas o implícitas.
+Consulte la Licencia para conocer el texto específico sobre permisos
+y limitaciones bajo la Licencia.
