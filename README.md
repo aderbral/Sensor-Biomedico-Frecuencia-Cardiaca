@@ -103,7 +103,6 @@ IEEE:
 A. Bruno, “Influencia de un sensor biomédico en el monitoreo de la frecuencia cardiaca…”, 2025.
 
 # LICENCIA
-Doxing is licensed. 
-See [LICENSE](https://github.com/AdrianoBrunoHackingEtico/Hacking-tico/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/aderbral/Sensor-Biomedico-Frecuencia-Cardiaca/blob/main/LICENSE.md) for more information.
 
 © 2025 Adrián Bruno
