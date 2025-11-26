@@ -34,7 +34,7 @@ Este proyecto busca mejorar el **control y la precisión del monitoreo cardíaco
 4. [Instalación](#-instalación)
 5. [Diagrama y Conexión](#-diagrama-y-Conexión)
 6. [Diseño 3D](#-diseño-3d)
-7. [Citar](#-citar)
+7. [Citar Proyecto](#-citar-Proyecto)
 8. [Licencia](#-licencia)
 
 # CARACTERÍSTICAS
@@ -46,11 +46,10 @@ Este proyecto busca mejorar el **control y la precisión del monitoreo cardíaco
 - Repositorio con código, análisis y archivos técnicos
 - Arquitectura basada en **sistemas embebidos**
 - Compatible con **Arduino IDE 2.0+**
-- Resultados validados estadísticamente (SPSS)
 
 # ARQUITECTURA
 
-Sensor MAX30102 → PPG cruda → Filtro Biquad IIR (0.5–4 Hz) → Procesamiento en ESP32 → Visualización OLED 128x64 → Transmisión y análisis
+Sensor MAX30105 → PPG cruda → Filtro Biquad IIR (0.5–4 Hz) → Procesamiento en ESP32 → Visualización OLED 128x64 → Transmisión y análisis
 
 # REQUISITOS DE INSTALACIÓN
 
@@ -60,12 +59,11 @@ Sensor MAX30102 → PPG cruda → Filtro Biquad IIR (0.5–4 Hz) → Procesamien
   - SparkFun MAX3010x
   - Adafruit SSD1306
   - Adafruit GFX
-- MATLAB (opcional – análisis de señal)
-- SPSS (análisis estadístico)
+- MATLAB (opcional)
 
 ### Hardware:
 - ESP32 DevKit V1
-- MAX30102
+- MAX30105
 - Pantalla OLED 128x64
 - Cables Dupont
 - Contenedor 3D (Fusion 360)
@@ -77,14 +75,14 @@ Sensor MAX30102 → PPG cruda → Filtro Biquad IIR (0.5–4 Hz) → Procesamien
 
 # DIAGRAMA Y CONEXIÓN
 
-<img src="https://i.postimg.cc/26zyF4Kz/Imagen1.png" title="TESIS">
+<img src="https://i.postimg.cc/26zyF4Kz/Imagen1.png" title="DIAGRAMA">
 
 | Módulo / Sensor           | Pin | ESP32   |
 | ------------------------- | --- | ------- |
-| **MAX30102**              | VIN | 3.3V    |
-| MAX30102                  | GND | GND     |
-| MAX30102                  | SCL | GPIO 22 |
-| MAX30102                  | SDA | GPIO 21 |
+| **MAX30105**              | VIN | 3.3V    |
+| MAX30105                  | GND | GND     |
+| MAX30105                  | SCL | GPIO 22 |
+| MAX30105                  | SDA | GPIO 21 |
 | **OLED 128x64 (SSD1306)** | VDD | 3.3V    |
 | OLED 128x64               | GND | GND     |
 | OLED 128x64               | SCL | GPIO 22 |
@@ -92,9 +90,9 @@ Sensor MAX30102 → PPG cruda → Filtro Biquad IIR (0.5–4 Hz) → Procesamien
 
 # DISEÑO 3D
 
-<img src="https://i.postimg.cc/DZjvrRs7/01-(1).png" title="TESIS">
+<img src="https://i.postimg.cc/DZjvrRs7/01-(1).png" title="DISEÑO">
 
-# CITAR
+# CITAR PROYECTO
 
 APA:
 
