@@ -1,6 +1,6 @@
 /*******************************************************************************************
- * TESIS: Propuesta de sensor biomédico y monitoreo de la frecuencia cardíaca 
- *        para pacientes de los centros de rehabilitación
+ * TESIS: Influencia de un sensor biomédico en el monitoreo de la frecuencia
+ *        cardiaca de pacientes en un centro de rehabilitación de Lima, 2025.
  *
  * AUTOR: Adrián Bruno
  * CARRERA: Ingeniería Mecatrónica
